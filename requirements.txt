@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+pyparsing
+six
+SQLAlchemy
+Werkzeug
+WTForms
+appdirs
+click
