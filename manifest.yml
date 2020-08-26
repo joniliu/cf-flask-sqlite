@@ -4,6 +4,7 @@ applications:
   memory: 256MB
   disk_quota: 256MB
   random-route: true
-  buildpack: python_buildpack
+  buildpacks: 
+  - python_buildpack
   command: python run.py
   instances: 1
