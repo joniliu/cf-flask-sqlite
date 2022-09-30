@@ -13,6 +13,7 @@ db = SQLAlchemy(app)
 
 app.config.from_object(__name__)
 from app import views
+from app import apis
 
 # create table(s) according to the model
 # declare this after model base class

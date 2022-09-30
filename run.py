@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 import os
-
 from app import app
 
 port = int(os.getenv("PORT", 0))
