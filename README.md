@@ -1,7 +1,7 @@
 
 ## Introduction
 
-A starter CRUD Web App (Skeleton) using Python Flask and SQLite as local datahase.
+A starter CRUD Web App (Skeleton) and REST APIs using Python Flask and SQLite as local database.
 This code deployable to SAP BTP Cloud Foundry environment.
 
 
